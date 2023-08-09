@@ -1,0 +1,30 @@
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\p.dias\Documents\GitHub\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\Fundamentos .NET\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
