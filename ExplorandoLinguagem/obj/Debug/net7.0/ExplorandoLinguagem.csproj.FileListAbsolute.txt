@@ -1,0 +1,15 @@
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\bin\Debug\net7.0\ExplorandoLinguagem.exe
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\bin\Debug\net7.0\ExplorandoLinguagem.deps.json
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\bin\Debug\net7.0\ExplorandoLinguagem.runtimeconfig.json
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\bin\Debug\net7.0\ExplorandoLinguagem.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\bin\Debug\net7.0\ExplorandoLinguagem.pdb
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.csproj.AssemblyReference.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.AssemblyInfoInputs.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.AssemblyInfo.cs
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.csproj.CoreCompileInputs.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\refint\ExplorandoLinguagem.dll
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.pdb
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ExplorandoLinguagem.genruntimeconfig.cache
+C:\Users\p.dias\Documents\GitHub\dio.me-.NET-Developer\ExplorandoLinguagem\obj\Debug\net7.0\ref\ExplorandoLinguagem.dll
