@@ -2,6 +2,18 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        // Exemplo construtor vazio, sendo escrito apos instanciar ele
+        public Pessoa()
+        {
+
+        }
+
+        // Construtoor onde quando é instanciado já passa os valores padrões
+        public Pessoa(String nome, String sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
         private string _nome;
         public string Nome
         {

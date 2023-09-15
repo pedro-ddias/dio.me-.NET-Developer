@@ -22,9 +22,13 @@ namespace ExemploExplorando.Models
 
         public void ListarAluno()
         {
-            foreach (Pessoa aluno in Alunos)
+            Console.WriteLine($"Alunos do: {Nome}");
+
+            for (int i = 0; i < Alunos.Count; i++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                //string texto = "N° " + (i+1) + " - " + Alunos[i].NomeCompleto;
+                string texto = $"N° {i+1} - {Alunos[i].NomeCompleto}";
+                Console.WriteLine(texto);
             }
         }
     }
